@@ -9,9 +9,9 @@ My expertise extends to proficiently handling backend operations using MongoDB.
 
 ## Skills
 - Frontend: HTML, CSS, Javascript, Node.js, Tailwind, React.js, Next.js, Redux
-- Backend: MongoDB, JWT, Express.js, RDBMS, SQL, 
+- Backend: MongoDB, JWT, Express.js, RDBMS, SQL
 - Other: Typescript, PRISMA, GraphQL
-- Basic problem solveing
+- Basic problem solving
 - Proficient in English (Conversation and Writing)
 
 ## What I do
