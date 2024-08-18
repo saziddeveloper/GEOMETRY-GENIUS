@@ -125,7 +125,7 @@ function addToCalculationEntry(typeOfArea, areaValue) {
 
     // Create a new button element
     const newButton = document.createElement("button");
-    newButton.className = "bg-[#1090D8] text-sm text-white ml-3 py-1 px-3 rounded hover:bg-blue-800 active:bg-blue-300";
+    newButton.className = "bg-[#1090D8] text-sm text-white ml-3 py-1 px-3 rounded hover:bg-blue-600 active:bg-blue-300";
     newButton.innerText = "Convert m²";
     
     // Append the p and button to the new div
